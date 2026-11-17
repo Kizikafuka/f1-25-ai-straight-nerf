@@ -1,0 +1,4949 @@
+{
+ "schema_version": 1,
+ "ops": [
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=c_classic_car]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=c_classic_car]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_00]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_00]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_01]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_01]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_02]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_02]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_03]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_03]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_04]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_04]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_07]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_07]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_08]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_08]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_99]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_ferrari_99]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_88]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_88]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_89]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_89]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_90]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_90]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_91]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-honda_91]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-mercedes_08]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-mercedes_08]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-mercedes_98]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-mercedes_98]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-mercedes_99]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren-mercedes_99]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren_tag_porsche_86]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_mclaren_tag_porsche_86]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_renault_05]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_renault_05]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_renault_06]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_renault_06]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-honda_86]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-honda_86]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-honda_87]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-honda_87]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_92]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_92]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_93]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_93]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_94]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_94]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_96]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_96]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_97]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_classics_c_williams-renault_97]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_bmw_sauber-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_bmw_sauber-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_hrt-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_hrt-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_lotus-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_lotus-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_virgin-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_virgin-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_williams-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2010_williams-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_hrt-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_hrt-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_virgin-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_virgin-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_williams-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2011_williams-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_caterham-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_caterham-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_hrt-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_hrt-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_marussia-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_marussia-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_williams-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2012_williams-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_caterham-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_caterham-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_marussia-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_marussia-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_williams-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2013_williams-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_caterham-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_caterham-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_lotus-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_marussia-cosworth]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_marussia-cosworth]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2014_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_lotus-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_lotus-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_marussia-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_marussia-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_mclaren-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_mclaren-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_red_bull-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2015_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_mclaren-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_mclaren-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_mrt-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_mrt-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_red_bull-tag_heuer]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_red_bull-tag_heuer]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2016_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_mclaren-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_mclaren-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_red_bull-tag_heuer]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_red_bull-tag_heuer]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_torro_rosso-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2017_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_force_india-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_mclaren-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_mclaren-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_red_bull-tag_heuer]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_red_bull-tag_heuer]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_sauber_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_scuderia_toro_rosso-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_scuderia_toro_rosso-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2018_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_mclaren-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_mclaren-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_racing_point-bwt_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_racing_point-bwt_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_red_bull_racing-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_red_bull_racing-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_scuderia_toro_rosso-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_scuderia_toro_rosso-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2019_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_alpha_tauri-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_alpha_tauri-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_mclaren-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_mclaren-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_racing_point-bwt_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_racing_point-bwt_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_red_bull_racing-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_red_bull_racing-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2020_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_alpha_tauri-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_alpha_tauri-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_aston_martin-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_aston_martin-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_red_bull_racing-honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_red_bull_racing-honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2021_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_alpha_tauri-rbpt]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_alpha_tauri-rbpt]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_aston_martin_aramco-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_aston_martin_aramco-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_red_bull_racing-rbpt]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_red_bull_racing-rbpt]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2022_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_alfa_romeo-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_alpha_tauri-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_alpha_tauri-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_aston_martin_aramco-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_aston_martin_aramco-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_red_bull_racing-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_red_bull_racing-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2023_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_alpine-renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_aston_martin_aramco-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_aston_martin_aramco-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_haas-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_kick_sauber-ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_kick_sauber-ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_mclaren-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_rb-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_rb-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_red_bull_racing-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_red_bull_racing-honda_rbpt]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f1_2024_williams-mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_dams]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_dams]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_pertamina_arden]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_pertamina_arden]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_racing_engineering]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_racing_engineering]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_rapax]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_rapax]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_russian_time]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_russian_time]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2017_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_bwt_arden]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_bwt_arden]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_campos_vexatec_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_campos_vexatec_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_carlin]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_carlin]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_dams]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_dams]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_pertamina_prema_(theodore)_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_pertamina_prema_(theodore)_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_russian_time]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_russian_time]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2018_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_bwt_arden]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_bwt_arden]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_carlin]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_carlin]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_dams]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_dams]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_sauber_junior_team_by_charouz]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_sauber_junior_team_by_charouz]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_uni-virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2019_uni-virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_bwt_hwa_racelab]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_bwt_hwa_racelab]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_carlin]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_carlin]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_dams]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_dams]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_hitech_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_hitech_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_sauber_junior_team_by_charouz]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_sauber_junior_team_by_charouz]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_uni-virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2020_uni-virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_carlin]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_carlin]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_dams]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_dams]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_hitech_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_hitech_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_hwa_racelab]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_hwa_racelab]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_uni-virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2021_uni-virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_carlin]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_carlin]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_charouz_racing_system]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_dams]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_dams]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_hitech_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_hitech_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_van_amersfoort_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_van_amersfoort_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2022_virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_dams]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_dams]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_hitech_pulse-eight]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_hitech_pulse-eight]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_invicta_virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_invicta_virtuosi_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_phm_racing_(by_charouz)]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_phm_racing_(by_charouz)]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_rodin_carlin]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_rodin_carlin]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_van_amersfoort_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2023_van_amersfoort_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_(phm)_aix_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_(phm)_aix_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_art_grand_prix]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_campos_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_dams_lucas_oil]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_dams_lucas_oil]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_hitech_pulse-eight]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_hitech_pulse-eight]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_invicta_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_invicta_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_mp_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_prema_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_rodin_motorsport]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_rodin_motorsport]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_trident]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_trident]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_van_amersfoort_racing]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f1cg_f2_2024_van_amersfoort_racing]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_23]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_23]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_24]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_24]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_25]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_25]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_story_25]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=f2_car_story_25]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=ferrari_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=fom_car_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=force_india_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=gm_cadillac_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=gm_cadillac_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=gm_cadillac_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=gm_cadillac_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=haas_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=konnersport_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=lotus_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mclaren_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=mercedes_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_audi_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_audi_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_ferrari_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_honda_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_mercedes_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_redbull_ford_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_redbull_ford_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_renault]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_renault]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_renault_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_renault_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_renault_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=myteam_renault_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=redbull_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=safety_car_aml]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=safety_car_aml]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=safety_car_mercedes]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=safety_car_mercedes]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=sauber_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=toro_rosso_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2023_pro]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2024_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2025_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2025_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2025_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_2026_equal_performance]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_story_2023]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=williams_story_2023]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=world_car_2024]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=world_car_2024]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=world_car_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=world_car_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=world_car_2026]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=world_car_2026]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=zenith_2024_story]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=zenith_2024_story]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=zenith_2025]",
+   "field": "ai_vehicle_config.ers_use.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  },
+  {
+   "op": "set",
+   "select": "entrants.vehicles.vehicle[_metadata_=zenith_2025]",
+   "field": "ai_vehicle_config.ers_use.xmode_enabled.switch_from_medium_to_none_in_race_battery_level",
+   "value": "{{ers_floor}}"
+  }
+ ]
+}

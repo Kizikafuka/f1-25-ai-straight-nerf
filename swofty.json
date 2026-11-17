@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "kizi.ai-straight-nerf",
+  "name": "AI Straight-line Nerf (EXPERIMENTAL)",
+  "version": "0.2.0",
+  "author": "Kizi",
+  "description": "EXPERIMENTAL, barely tested. Slows AI cars on straights: less ERS (stock cars, restart) + a live AI power and top-speed cut, mouse panel on F8. Use at your own risk.",
+  "license": "MIT",
+  "icon": "icon.png",
+  "category": "ai",
+  "kind": [
+    "native",
+    "database"
+  ],
+  "compat": {
+    "game": "f1_25",
+    "launcher": ">=1.8.19"
+  },
+  "requires": [
+    {
+      "id": "swofty.core",
+      "version": ">=0.1.0"
+    }
+  ],
+  "options": [
+    {
+      "id": "ers_floor",
+      "type": "choice",
+      "label": "[Experimental] AI ERS: stops deploying at battery",
+      "description": "EXPERIMENTAL, barely tested. The game's own cars only (not cars added by mods). Needs a game restart. Battery level where the AI stops using ERS (game: 10%). Higher = its battery runs dry sooner.",
+      "values": [
+        {
+          "value": "0.1",
+          "label": "Stock (10%)"
+        },
+        {
+          "value": "0.25",
+          "label": "Sooner (25%)"
+        },
+        {
+          "value": "0.4",
+          "label": "Much sooner (40%)"
+        }
+      ],
+      "default": "0.1",
+      "binds": "db"
+    },
+    {
+      "id": "ai_power_cut",
+      "type": "slider",
+      "label": "[Experimental] AI engine power cut (%)",
+      "description": "EXPERIMENTAL, barely tested. Takes this much engine power from every AI car, so they are slower on straights. Corner speed is not touched. 0 = off. Live: no restart, applies within a second.",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "default": 0,
+      "binds": "native"
+    },
+    {
+      "id": "ai_topspeed_cut",
+      "type": "slider",
+      "label": "[Experimental] AI top speed cut (rpm)",
+      "description": "EXPERIMENTAL, barely tested. AI engine torque is cut this many rpm under the limiter, which caps top speed at the end of long straights. 0 = off. Live: no restart, applies within a second.",
+      "min": 0,
+      "max": 600,
+      "step": 100,
+      "default": 0,
+      "binds": "native"
+    },
+    {
+      "id": "open_on_pause",
+      "type": "toggle",
+      "label": "[Experimental] Open the panel when the game is paused",
+      "description": "Opens the mouse panel by itself on pause and closes it on resume. Off: open it with F8 (Esc closes).",
+      "default": false,
+      "binds": "native"
+    }
+  ],
+  "operations": {
+    "database": [
+      "db/ers.json"
+    ],
+    "native": [
+      {
+        "dll": "native/kizi_ai_straight_nerf.dll"
+      }
+    ]
+  }
+}
